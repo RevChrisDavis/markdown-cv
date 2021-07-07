@@ -6,15 +6,14 @@ title: Chris Davis CV
 4th Year Electrical and Electronic Engineering MEng Student.
 
 <div id="webaddress">
-<a href="christopher.honess@gmail.com">christopher.honess@gmail.com</a>
-<a href="https://www.linkedin.com/in/chris-davis-02786a15b">LinkedIn Profile</a>
+<a href="christopher.honess@gmail.com">christopher.honess@gmail.com</a> | <a href="https://www.linkedin.com/in/chris-davis-02786a15b">LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-4th Year Electrical and Electronic Engineering MEng Student at University of Bristol.
-Internal Development and Retail Administrator at Rope Access Equip Ltd.
+Final Year EEE Student.\\
+Internal Development and Retail Administrator.
 
 ### Specialized in
 
