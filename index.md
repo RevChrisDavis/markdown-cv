@@ -1,19 +1,20 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chris Davis CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chris Davis
+4th Year Electrical and Electronic Engineering MEng Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="christopher.honess@gmail.com">christopher.honess@gmail.com</a>
+<a href="https://www.linkedin.com/in/chris-davis-02786a15b">LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+4th Year Electrical and Electronic Engineering MEng Student at University of Bristol.
+Internal Development and Retail Administrator at Rope Access Equip Ltd.
 
 ### Specialized in
 
@@ -27,20 +28,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - now`
+__The University of Bristol.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2008 - 2016`
+__The Bishop's Stortford High School.__
 
 ## Awards
 
@@ -58,7 +50,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +79,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
